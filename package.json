@@ -1,12 +1,14 @@
 {
   "name": "vk-donuts",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "description": "Библиотека для работы с API VK Donuts для NodeJS приложений",
   "main": "lib/index",
   "repository": "https://github.com/fakemancat/vk-donuts",
   "scripts": {
     "build": "rollup -c"
   },
+  "types": "lib/index.d.ts",
+  "typings": "lib/index.d.ts",
   "author": {
     "email": "bryuhanovdima@yandex.ru",
     "name": "Fakeman Cat",
